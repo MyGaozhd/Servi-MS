@@ -1,11 +1,13 @@
-package com.servi.client;
+package com.servi.rpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClientApplication {
+public class RpcpubApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(ClientApplication.class, args);
+        SpringApplication.run(RpcpubApplication.class, args);
     }
+
 }
