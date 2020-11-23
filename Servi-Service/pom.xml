@@ -23,7 +23,7 @@
 
         <!--引入rpc依赖-->
         <dependency>
-            <groupId>com.servi.rpc</groupId>
+            <groupId>com.servi</groupId>
             <artifactId>servi-rpc</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
