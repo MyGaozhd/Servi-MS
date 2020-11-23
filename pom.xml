@@ -4,7 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.servi</groupId>
     <artifactId>servi-ms</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>Servi-Dubbo</module>
+    </modules>
     <name>servi-ms</name>
     <description>MS project for Spring Boot</description>
 
