@@ -9,19 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Dubbo-Annotation</artifactId>
+    <artifactId>Dubbo-Interface</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>Dubbo-Anno-Provider</module>
-        <module>Dubbo-Anno-Consumer</module>
-    </modules>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.servi</groupId>
-            <artifactId>Dubbo-Interface</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-
 </project>
