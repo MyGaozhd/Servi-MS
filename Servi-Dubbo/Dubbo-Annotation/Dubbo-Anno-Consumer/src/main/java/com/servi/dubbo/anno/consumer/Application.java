@@ -1,5 +1,6 @@
 package com.servi.dubbo.anno.consumer;
 
+import com.alibaba.dubbo.common.extension.SPI;
 import com.alibaba.dubbo.config.spring.context.annotation.EnableDubbo;
 import com.servi.dubbo.service.IUserService;
 import com.servi.dubbo.user.User;
